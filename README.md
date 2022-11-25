@@ -10,7 +10,7 @@ exhaustivestruct is a go static analysis tool to find structs that have uninitia
 ## Installation
 
 ```
-go get -u github.com/mbilski/exhaustivestruct/cmd/exhaustivestruct
+go install github.com/syumai/exhaustivestruct/cmd/exhaustivestruct@latest
 ```
 
 ## Usage
