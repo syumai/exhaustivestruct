@@ -1,4 +1,4 @@
-module github.com/mbilski/exhaustivestruct
+module github.com/syumai/exhaustivestruct
 
 go 1.19
 

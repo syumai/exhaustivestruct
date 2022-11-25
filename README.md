@@ -1,6 +1,6 @@
 # exhaustivestruct
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/mbilski/exhaustivestruct)](https://goreportcard.com/badge/github.com/mbilski/exhaustivestruct)
+[![Go Report Card](https://goreportcard.com/badge/github.com/syumai/exhaustivestruct)](https://goreportcard.com/badge/github.com/syumai/exhaustivestruct)
 
 exhaustivestruct is a go static analysis tool to find structs that have uninitialized fields.
 
